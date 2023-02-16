@@ -1,0 +1,44 @@
+.service-heading {
+  color: #ffff;
+
+  text-align: center;
+  font-weight: 500;
+}
+
+.service-heading1 {
+  font-weight: 300;
+}
+.service-description {
+  color: #616e7c;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 300;
+}
+.service-card {
+  background-size: cover;
+  padding: 20px;
+  background-image: url('https://res.cloudinary.com/dyivs1j8u/image/upload/v1676462500/images_edi2dc.jpg');
+}
+
+.each-service-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.service-image {
+  width: 45%;
+  margin: 10px;
+  margin: 10px;
+}
+
+.info-card {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}

@@ -1,0 +1,46 @@
+.join-our-team {
+  text-align: center;
+  background-color: yellow;
+  padding: 40px;
+  color: black;
+  background-size: cover;
+}
+
+.weare-hiring-card {
+  background-image: linear-gradient(#0967d2, #323f4b);
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.curv-heading {
+  color: #ffff;
+  font-family: cursive;
+}
+
+.images-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.compeny-image {
+  width: 25%;
+  height: 10%;
+}
+
+.job-cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.job-card {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 0.2px;
+  padding: 10px;
+  margin: 10px;
+}

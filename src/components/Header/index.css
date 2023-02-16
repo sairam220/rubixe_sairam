@@ -1,0 +1,32 @@
+.rbixe-logo-styles {
+  height: 6%;
+  width: 15%;
+}
+
+.nav-header {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.nav-li-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #ffff;
+}
+
+.link-item {
+  text-decoration: none;
+  font-family: 'roboto';
+}
+
+li {
+  color: #ffff;
+  align-self: center;
+  list-style-type: none;
+  margin: 10px;
+  cursor: pointer;
+}

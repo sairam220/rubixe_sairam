@@ -1,0 +1,30 @@
+.blog-card {
+  background-size: cover;
+  background-image: url('https://res.cloudinary.com/dyivs1j8u/image/upload/v1676528554/images_s2zzlb.jpg');
+  text-align: center;
+  color: #ffff;
+  padding: 40px;
+}
+
+.ai-content {
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-color: aliceblue;
+  box-shadow: aliceblue;
+  padding: 20px;
+  margin-left: 18%;
+  width: 90%;
+  margin: 30px;
+  text-align: center;
+}
+
+.ai-image {
+  height: 30%;
+  width: 60%;
+  align-self: center;
+
+  margin: 20px;
+  margin-left: 22%;
+}

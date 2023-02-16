@@ -1,0 +1,68 @@
+.footer-card {
+  background-size: cover;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.bottom-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.icon-c {
+  color: #616e7c;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  margin-top: 10px;
+}
+.footer-para {
+  font-size: 20px;
+  font-weight: 650;
+  color: #616e7c;
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+  background-color: transparent;
+}
+
+.first-card {
+  background-color: #cbced2;
+  color: #616e7c;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  justify-content: space-around;
+}
+.footer-link {
+  color: #616e7c;
+}
+
+.details-1 {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin-left: 20px;
+}
+
+.social {
+  background-color: orangered;
+  height: 25px;
+  color: #ffff;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+  width: 120px;
+}

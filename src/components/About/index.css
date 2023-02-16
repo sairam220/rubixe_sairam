@@ -1,0 +1,31 @@
+.about-card {
+  background-size: cover;
+  padding: 30px;
+  background-image: linear-gradient(orange, white, green);
+  text-align: center;
+  font-family: cursive;
+}
+
+.about-us-card {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+.management-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #f8fafc;
+}
+
+.abou-image {
+  width: 30%;
+  margin: 20px;
+  margin-left: 6%;
+}
+.empolyees-profiles {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15%;
+}

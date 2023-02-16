@@ -1,0 +1,55 @@
+.product-container {
+  background-image: url('https://res.cloudinary.com/dyivs1j8u/image/upload/v1676468601/connected-technology_kbwztq.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.products-acrd {
+  display: flex;
+  flex-direction: row;
+  background-color: #cbced2;
+  margin-top: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.contact-card {
+  background-image: linear-gradient(#e73959, #1e293b);
+  display: flex;
+  height: 30%;
+  flex-direction: column;
+  color: #ffff;
+  border-radius: 10px;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.button {
+  height: 40px;
+  width: 160px;
+  background-color: orangered;
+  color: white;
+  border-width: 0px;
+  margin: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.hr {
+  width: 10%;
+}
+
+.product-image {
+  width: 26%;
+}

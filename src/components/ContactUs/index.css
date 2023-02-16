@@ -1,0 +1,38 @@
+.contact-container {
+  background-image: url('https://res.cloudinary.com/dyivs1j8u/image/upload/v1676533255/kasbswoc8nqvylewaphp.jpg');
+  background-size: cover;
+  padding: 30px;
+  text-align: center;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10%;
+}
+textarea {
+  margin: 10px;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 0.2px;
+  padding: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+
+input {
+  margin: 10px;
+}
