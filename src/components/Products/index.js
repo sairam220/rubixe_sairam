@@ -58,7 +58,7 @@ const Products = () => (
       <h1 className="service-heading1">
         Would You Like To Learn More About Our Business?
       </h1>
-      <Link to="/contact">
+      <Link to="/contact-us">
         <button type="button" className="button">
           CONTACT US NOW
         </button>

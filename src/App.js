@@ -8,6 +8,7 @@ import './App.css'
 import Blog from './components/Blog'
 import About from './components/About'
 import ContactUs from './components/ContactUs'
+import SubmitForm from './components/SubmitForm'
 
 const App = () => (
   <Switch>
@@ -18,6 +19,7 @@ const App = () => (
     <Route path="/career" component={Career} />
     <Route path="/blog" component={Blog} />
     <Route path="/about" component={About} />
+    <Route path="/successful-submit" component={SubmitForm} />
     <Route path="/contact-us" component={ContactUs} />
   </Switch>
 )
