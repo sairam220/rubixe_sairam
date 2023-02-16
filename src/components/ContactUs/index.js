@@ -39,6 +39,11 @@ class ContactUs extends Component {
         <div className="row-container">
           <div className="icons-container">
             <div className="icon-conatiner">
+              <img
+                src="https://res.cloudinary.com/dyivs1j8u/image/upload/v1676569085/images_yl8y0l.png"
+                className="icon-photo"
+                alt="icon"
+              />
               <p className="service-heading1 heading">Address</p>
               <p>
                 3rd Floor, Opposite to Godavari Hotel, Kudlu Gate, Bengaluru,
@@ -46,11 +51,21 @@ class ContactUs extends Component {
               </p>
             </div>
             <div className="icon-conatiner">
+              <img
+                src="https://res.cloudinary.com/dyivs1j8u/image/upload/v1676569279/dbbvlrfwkytk1jgtgz1t.png"
+                className="icon-photo"
+                alt="icon"
+              />
               <p className="service-heading1 heading">Phone</p>
               <p>0804-717-8999</p>
             </div>
 
             <div className="icon-conatiner">
+              <img
+                src="https://res.cloudinary.com/dyivs1j8u/image/upload/v1676569326/dyo6oeoyso3e9cjhqrrq.png"
+                className="icon-photo"
+                alt="icon"
+              />
               <p className="service-heading1 heading">Email</p>
               <p>hi@rubixe.com</p>
             </div>

@@ -34,14 +34,14 @@ const Internships = () => (
         </p>
       </div>
     </div>
-    <Link
+    <a
       className="button-link"
-      to="https://docs.google.com/forms/d/e/1FAIpQLScoVFEayXtiAEv1V1mjV7bJMNbvV7LrB75NFjCWmd_QuMBQOQ/viewform"
+      href="https://docs.google.com/forms/d/e/1FAIpQLScoVFEayXtiAEv1V1mjV7bJMNbvV7LrB75NFjCWmd_QuMBQOQ/viewform"
     >
       <button type="button" className="button button1">
         APPLY ONLINE
       </button>
-    </Link>
+    </a>
     <h1 className="service-heading1 heading">Some of our Inspiring Projects</h1>
     <div className="project-cards">
       <div className="project-card">
